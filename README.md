@@ -1,6 +1,8 @@
 # Github Finder
-> I followed Udemy's course - "React Front To Back" for this application.
-> This app uses the Context API along with the useContext and useReducer hooks for state management and is part of the "Modern React Front To Back" Udemy course
+A small React, Javascript, React Context application.
+Enter the users github and find it!
+
+Live: https://github-finder-course.netlify.app/
 
 ## Usage
 
